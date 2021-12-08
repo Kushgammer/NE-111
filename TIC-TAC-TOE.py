@@ -1,5 +1,5 @@
 # L.S. = Luca Sabelli
-# K.R. = Kaustav Razdan
+# K.R. = Kaustav Razdan Github: Kushgammer
 # O.A. = Omar Abdullhai
 
 """
