@@ -1,5 +1,5 @@
 # L.S. = Luca Sabelli
-# K.R. = Kaustav Razdan Github: Kushgammer
+# K.R. = Kaustav Razdan Github: https://github.com/Kushgammer/NE-111
 # O.A. = Omar Abdullhai
 
 """
